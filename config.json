@@ -1,0 +1,25 @@
+{
+  "ownerNumber": ["6285921165857@s.whatsapp.net"],
+  "ownerName": ["Christian ID"],
+  "ownerNum": "6285921165857",
+  "botName": "Hitomi MD",
+  "hitokey": "HitomiMd",
+  "leyskey": "IkyOgiwara",
+  "lolkey": "HitomiBot",
+  "namaButton": "Youtube",
+  "linkButton": "https://youtube.com/c/ChristianID99",
+  "donasiQris": "https://i.ibb.co/f2h3MDQ/Qris.jpg",
+  "donasiPulsa": "0813-2850-7885",
+  "sb": "➸",
+  "footer": "© Hitomi MD 2022",
+  "fake": "HITOMI MULTI DEVICE",
+  "sessionName": "hitomi",
+  "pathimg": "./media/hitomi.jpg",
+  "randomlink": ["https://i.ibb.co/Ybbz3qm/b1511a60173f.jpg","https://i.ibb.co/gzx9tkF/e525998814c2.jpg","https://i.ibb.co/7t4ndRM/9d4d951fe9c8.jpg","https://i.ibb.co/61WQK7v/44d84e1d31fc.jpg"],
+  "gamewaktu": 60,
+  "limitCount": 15,
+  "gcount": {
+	"prem": 99999,
+	"user": 20
+  }
+}
