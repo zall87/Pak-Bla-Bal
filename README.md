@@ -28,8 +28,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/TianBot1/Hitomi-EmdeV3
-cd Hitomi-EmdeV3
+git clone https://github.com/TianBot1/Hitomi-MdV4
+cd Hitomi-MdV4
 pkg install yarn
 yarn
 npm start
@@ -56,3 +56,5 @@ npm start
 # Thanks to
 - rtwone / Irfan
 - Christian ID
+- Arasya
+- Lexxy
